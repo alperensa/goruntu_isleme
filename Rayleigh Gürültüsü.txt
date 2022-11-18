@@ -1,0 +1,9 @@
+Rayleigh Gürültüsü Hangi Alanlarda Kullanılır?
+
+Görüntü alırken, fotoğraf çekerken görüntümüz bozulabilir, gürültülü olabilir.
+Bunun nedenleri bir çok şey olabilir. Ancak en yaygın olanları düşük kaliteli ekipman ve ortam koşullarından kaynaklanmaktadır.
+Kamera flashı ve sıcaklık değişimlerinden kolayca etkilenebilecek eski bir kamera kullanırsak,
+görüntümüzün bazı istenmeyen eserler elde etme şansı var.
+Ayrıca, verileri kablosuz olarak ilettiğimizde, sinyalimiz atmosferik rahatsızlıklardan dolayı bozulabilir.
+Bu nedenle, görüntülerde yapay olarak gürültü oluşturmak, onu simüle etmemize ve onu kaldırmak için doğru filtreyi kullanmamıza olanak tanır.
+Bu şekilde, orijinaliyle neredeyse aynı olan bir görüntü elde edebiliriz.
